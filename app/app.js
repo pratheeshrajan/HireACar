@@ -9,8 +9,6 @@ const App = Application.extend({
   Resolver
 });
 
-console.log("===i am test===");
-
 loadInitializers(App, config.modulePrefix);
 
 export default App;
